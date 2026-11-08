@@ -1,159 +1,66 @@
-<!--
-  MINECRAFT SERVER TERMINAL — GitHub profile README for sharthak-coder
-  This file goes in a repo named exactly: sharthak-coder/sharthak-coder
-  Setup notes for the animated snake are at the bottom of this file.
--->
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Sharthak Ravi</h1>
+
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=sharthak-coder&theme=github-dark&mode=dark" alt="sharthak-coder's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sharthak-coder&theme=nightowl&hide_border=true&cache_seconds=86400" alt="sharthak-coder's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=sharthak-coder&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=sharthak-coder&theme=github-dark&mode=dark" alt="Sharthak Ravi's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=sharthak-coder&theme=github-dark&mode=dark" alt="sharthak-coder's Activity Graph" />
+</p>
+
+
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=sharthak-coder&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sharthak-coder&theme=github-dark&mode=dark&style=snake" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=sharthak-coder&theme=github-dark&mode=dark&style=snake" />
+</picture>
+
+
 
 <div align="center">
-
-<!-- ANIMATED WAVE BANNER — capsule-render, dark terminal-green theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=sharthak-coder's%20SERVER&fontSize=38&fontColor=55FF55&fontAlignY=38&animation=fadeIn&desc=type:%20survival%20%7C%20version:%201.0.0&descAlignY=58&descColor=888888" width="100%"/>
-
-<!-- TYPING SVG — server MOTD style, monospace, terminal green -->
-<a href="https://github.com/sharthak-coder">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=55FF55&background=0D0D0D00&center=true&vCenter=true&width=600&lines=%24+connecting+to+sharthak-coder.server...;MOTD%3A+Building+cool+stuff+since+2020;Players+online%3A+1%2F1+%7C+TPS%3A+20.0+%7C+Ping%3A+low;Type+%2Fhelp+to+see+what+I%27m+working+on" alt="Typing SVG" />
-</a>
-
+  <!---->
 </div>
 
-<br/>
+<p align="center"><sub>Sharthak Ravi · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-<!-- SERVER STATUS TABLE -->
-<div align="center">
-
-| ⛏️ status | value |
-|:---:|:---:|
-| **world** | Overworld — Full Stack |
-| **difficulty** | Hard (Production) |
-| **uptime** | ![Profile Views](https://komarev.com/ghpvc/?username=sharthak-coder&color=55FF55&style=flat-square&label=visits) |
-| **last login** | ![GitHub last commit](https://img.shields.io/github/last-commit/sharthak-coder/sharthak-coder?style=flat-square&color=55FF55&labelColor=0D0D0D) |
-
-</div>
-
-<br/>
-
-## `>` about_me.txt
-
-```yaml
-name: Sharthak Ravi
-role: Full Stack Developer
-current_biome: Building something in the Overworld
-currently_mining: [ open source, side projects, coffee ]
-long_term_quest: Ship things that don't break at 3am
-fun_fact: My IDE has more plugins than my actual Minecraft install
-```
-
-<br/>
-
-## `>` inventory.hotbar — tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,git,github,linux,postgres,aws&theme=dark" />
-
-</div>
-
-<br/>
-
-## `>` contribution_graph — snake fed
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/sharthak-coder/sharthak-coder/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-<br/>
-
-## `>` server_stats.log
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sharthak-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=55FF55&icon_color=FFAA00&text_color=AAAAAA&ring_color=55FF55"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak-coder&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=55FF55&text_color=AAAAAA&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com/?user=sharthak-coder&theme=dark&hide_border=true&background=0D0D0D&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
-
-</div>
-
-<br/>
-
-## `>` leetcode.log
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/sharthak_ravi?theme=dark&font=Fira%20Code&ext=heatmap&border=0D0D0D&bg_color=0D0D0D&text_color=AAAAAA&border_color=1A1A1A" alt="LeetCode stats"/>
-
-</div>
-
-<br/>
-
-## `>` achievements_unlocked
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/Achievement_Get!-100_Repositories_Mined-0D0D0D?style=for-the-badge&labelColor=1A1A1A&logo=github&logoColor=55FF55&color=0D0D0D)
-![Achievement](https://img.shields.io/badge/Achievement_Get!-1000_Commits_Crafted-0D0D0D?style=for-the-badge&labelColor=1A1A1A&logo=git&logoColor=FFAA00&color=0D0D0D)
-![Achievement](https://img.shields.io/badge/Achievement_Get!-Open_Source_Contributor-0D0D0D?style=for-the-badge&labelColor=1A1A1A&logo=opensourceinitiative&logoColor=55FF55&color=0D0D0D)
-
-</div>
-
-<br/>
-
-## `>` trophy_case
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sharthak-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
-<br/>
-
-## `>` connect.sh
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=55FF55)](https://www.linkedin.com/in/sharthak-ravi/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FFAA00)](https://leetcode.com/u/sharthak_ravi/)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=55FF55)](mailto:sharthak.21ravi@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=100&section=footer" width="100%"/>
-
-<!--
-=====================================================================
-SETUP NOTES — read before publishing
-=====================================================================
-
-1) WHERE THIS FILE GOES
-   Create a public repo named exactly: sharthak-coder
-   (so the full path is github.com/sharthak-coder/sharthak-coder).
-   Drop this file in as README.md — GitHub auto-displays it on your
-   profile page at github.com/sharthak-coder.
-
-2) ENABLING THE ANIMATED SNAKE (the eating-the-contribution-graph animation)
-   This one needs a GitHub Action since it regenerates from your real
-   contribution graph. Steps:
-     a. In your profile repo, create: .github/workflows/snake.yml
-     b. Paste the content of the accompanying snake.yml file into it.
-     c. Commit — it runs automatically twice a day and on push, and
-        commits the generated SVG to an "output" branch.
-     d. The <img> tag above already points to that output branch —
-        once the Action runs once, the snake will appear and animate.
-
-3) DARK MODE
-   Every widget above (typing SVG, stats cards, streak stats, LeetCode
-   card, trophies, snake) is set to dark/near-black backgrounds with the
-   terminal green (#55FF55) / amber (#FFAA00) accent palette, so it sits
-   flush against GitHub's dark theme with no white boxes.
-
-4) IF A BADGE ICON DOESN'T MATCH YOUR STACK
-   skillicons.dev supports 100+ icons — swap the "i=" list for your
-   actual tools. Full list: https://skillicons.dev
-
-=====================================================================
--->
