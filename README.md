@@ -1,9 +1,7 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sharthak%20Ravi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=20" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Sharthak Ravi</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
